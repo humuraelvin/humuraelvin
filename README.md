@@ -2,8 +2,8 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Humura+Elvin!;" />
 </h1>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/humuraelvin"><img src="https://readme-typing-svg.herokuapp.com/?lines=FullStack%20Software%20developer;Cyber%20Security%20Engineer;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+
+<a align-"center" href="https://github.com/humuraelvin"><img src="https://readme-typing-svg.herokuapp.com/?lines=FullStack%20Software%20developer;Cyber%20Security%20Engineer;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=humuraelvin&label=Profile%20views&color=0e75b6&style=flat" alt="humuraelvin" /> </p>
