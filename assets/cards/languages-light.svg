@@ -13,40 +13,40 @@
 <clipPath id="barclip"><rect x="24" y="66" width="808" height="12" rx="6"/></clipPath>
 <rect x="24" y="66" width="808" height="12" rx="6" fill="#e5e5ea"/>
 <g clip-path="url(#barclip)"><g class="bar">
-<rect x="24.00" y="66" width="330.03" height="12" fill="#f1e05a"/>
-<rect x="353.53" y="66" width="142.08" height="12" fill="#3572A5"/>
-<rect x="495.11" y="66" width="108.30" height="12" fill="#3178c6"/>
-<rect x="602.91" y="66" width="73.27" height="12" fill="#b07219"/>
-<rect x="675.69" y="66" width="53.68" height="12" fill="#4F5D95"/>
-<rect x="728.87" y="66" width="42.00" height="12" fill="#f34b7d"/>
-<rect x="770.37" y="66" width="13.35" height="12" fill="#555555"/>
-<rect x="783.21" y="66" width="10.12" height="12" fill="#89e051"/>
-<rect x="792.84" y="66" width="39.66" height="12" fill="#8E8E93"/>
+<rect x="24.00" y="66" width="326.74" height="12" fill="#f1e05a"/>
+<rect x="350.24" y="66" width="148.74" height="12" fill="#3572A5"/>
+<rect x="498.48" y="66" width="107.23" height="12" fill="#3178c6"/>
+<rect x="605.20" y="66" width="72.55" height="12" fill="#b07219"/>
+<rect x="677.25" y="66" width="53.15" height="12" fill="#4F5D95"/>
+<rect x="729.90" y="66" width="41.58" height="12" fill="#f34b7d"/>
+<rect x="770.98" y="66" width="13.22" height="12" fill="#555555"/>
+<rect x="783.70" y="66" width="10.03" height="12" fill="#89e051"/>
+<rect x="793.23" y="66" width="39.27" height="12" fill="#8E8E93"/>
 </g></g>
 <g class="fade" style="animation-delay:0.50s">
   <circle cx="30.0" cy="111" r="6" fill="#f1e05a"/>
   <text x="44.0" y="116" font-size="14" font-weight="500" fill="#1d1d1f">JavaScript</text>
-  <text x="269.3333333333333" y="116" font-size="13" text-anchor="end" fill="#6e6e73">40.8%</text>
+  <text x="269.3333333333333" y="116" font-size="13" text-anchor="end" fill="#6e6e73">40.4%</text>
 </g>
 <g class="fade" style="animation-delay:0.56s">
   <circle cx="299.3333333333333" cy="111" r="6" fill="#3572A5"/>
   <text x="313.3333333333333" y="116" font-size="14" font-weight="500" fill="#1d1d1f">Python</text>
-  <text x="538.6666666666666" y="116" font-size="13" text-anchor="end" fill="#6e6e73">17.5%</text>
+  <text x="538.6666666666666" y="116" font-size="13" text-anchor="end" fill="#6e6e73">18.3%</text>
 </g>
 <g class="fade" style="animation-delay:0.62s">
   <circle cx="568.6666666666666" cy="111" r="6" fill="#3178c6"/>
   <text x="582.6666666666666" y="116" font-size="14" font-weight="500" fill="#1d1d1f">TypeScript</text>
-  <text x="808.0" y="116" font-size="13" text-anchor="end" fill="#6e6e73">13.3%</text>
+  <text x="808.0" y="116" font-size="13" text-anchor="end" fill="#6e6e73">13.2%</text>
 </g>
 <g class="fade" style="animation-delay:0.68s">
   <circle cx="30.0" cy="141" r="6" fill="#b07219"/>
   <text x="44.0" y="146" font-size="14" font-weight="500" fill="#1d1d1f">Java</text>
-  <text x="269.3333333333333" y="146" font-size="13" text-anchor="end" fill="#6e6e73">9.0%</text>
+  <text x="269.3333333333333" y="146" font-size="13" text-anchor="end" fill="#6e6e73">8.9%</text>
 </g>
 <g class="fade" style="animation-delay:0.74s">
   <circle cx="299.3333333333333" cy="141" r="6" fill="#4F5D95"/>
   <text x="313.3333333333333" y="146" font-size="14" font-weight="500" fill="#1d1d1f">PHP</text>
-  <text x="538.6666666666666" y="146" font-size="13" text-anchor="end" fill="#6e6e73">6.6%</text>
+  <text x="538.6666666666666" y="146" font-size="13" text-anchor="end" fill="#6e6e73">6.5%</text>
 </g>
 <g class="fade" style="animation-delay:0.80s">
   <circle cx="568.6666666666666" cy="141" r="6" fill="#f34b7d"/>

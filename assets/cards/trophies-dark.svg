@@ -21,7 +21,7 @@
   <rect x="24" y="66" width="190" height="150" rx="14" fill="#161b22" stroke="#30363d"/>
   <circle cx="119.0" cy="118" r="30" fill="none" stroke="#21262d" stroke-width="6"/>
   <circle class="ring" cx="119.0" cy="118" r="30" fill="none" stroke="#FFD60A" stroke-width="6" stroke-linecap="round"
-          stroke-dasharray="188.5" stroke-dashoffset="15.6" transform="rotate(-90 119.0 118)"
+          stroke-dasharray="188.5" stroke-dashoffset="16.2" transform="rotate(-90 119.0 118)"
           style="animation: ring0 1.2s cubic-bezier(.2,.8,.2,1) 0.30s both"/>
   <text x="119.0" y="125" font-size="20" font-weight="700" text-anchor="middle" fill="#FFD60A">S</text>
   <text x="119.0" y="180" font-size="14" font-weight="600" text-anchor="middle" fill="#e6edf3">Commits</text>
