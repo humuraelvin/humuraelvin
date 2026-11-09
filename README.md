@@ -72,52 +72,6 @@
 
 <br />
 
-<!-- Featured work -->
-<h2 align="center">Selected Work</h2>
-
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/humuraelvin/universal_decoder">Universal Decoder</a></b><br />
-      <sub>Python · OpenCV</sub><br />
-      Decoders for QR, barcode, Data Matrix, MaxiCode, Aztec and PDF417 for robotics vision pipelines.
-    </td>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/humuraelvin/face-tracking-with-mqtt-and-servo">Face Tracking · MQTT · Servo</a></b><br />
-      <sub>Python · MQTT · Embedded</sub><br />
-      Real-time face tracking that drives a servo over MQTT, closing the loop from camera to motor.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/humuraelvin/NexaSecurity">NexaSecurity</a></b><br />
-      <sub>TypeScript · Security</sub><br />
-      A modern cybersecurity platform, with full project documentation in <a href="https://github.com/humuraelvin/NexaSec-Doc">NexaSec-Doc</a>.
-    </td>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/humuraelvin/CFO.ai">CFO.ai</a></b><br />
-      <sub>TypeScript · AI · Crypto</sub><br />
-      An AI "Crypto Finance Officer" for analysing and managing digital assets.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/humuraelvin/Smart-Voting-System">Smart Voting System</a></b><br />
-      <sub>TypeScript · Blockchain</sub><br />
-      Transparent, tamper-resistant voting built on smart contracts.
-    </td>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/humuraelvin/student_ml">Student ML</a></b><br />
-      <sub>Python · scikit-learn</sub><br />
-      Prediction, classification, clustering and regression demos on real data.
-    </td>
-  </tr>
-</table>
-
-<p align="center"><sub><a href="./PROJECTS.md">Browse the full project index →</a></sub></p>
-
-<br />
-
 <!-- Stats -->
 <h2 align="center">Activity</h2>
 
