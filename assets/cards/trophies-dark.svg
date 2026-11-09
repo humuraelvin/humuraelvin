@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="856" height="410" viewBox="0 0 856 410" role="img">
+<style>
+  text { font-family: -apple-system,BlinkMacSystemFont,'SF Pro Display','Segoe UI',Helvetica,Arial,sans-serif; }
+  .fade { animation: fade .7s cubic-bezier(.2,.8,.2,1) both; }
+  @keyframes fade { from { opacity: 0; transform: translateY(6px); } }
+  @media (prefers-reduced-motion: reduce) { .fade, .ring, .bar { animation: none !important; } }
+  @keyframes ring0 { from { stroke-dashoffset: 188.5; } }
+@keyframes ring1 { from { stroke-dashoffset: 188.5; } }
+@keyframes ring2 { from { stroke-dashoffset: 188.5; } }
+@keyframes ring3 { from { stroke-dashoffset: 188.5; } }
+@keyframes ring4 { from { stroke-dashoffset: 188.5; } }
+@keyframes ring5 { from { stroke-dashoffset: 188.5; } }
+@keyframes ring6 { from { stroke-dashoffset: 188.5; } }
+@keyframes ring7 { from { stroke-dashoffset: 188.5; } }
+
+</style>
+<rect x="0.5" y="0.5" width="855" height="409" rx="16" fill="#0d1117" stroke="#30363d"/>
+<text x="24" y="44" font-size="20" font-weight="600" fill="#f5f5f7">Trophies</text>
+<text x="832" y="44" font-size="13" text-anchor="end" fill="#8b949e">Ranked by GitHub activity</text>
+<g class="fade" style="animation-delay:0.00s">
+  <rect x="24" y="66" width="190" height="150" rx="14" fill="#161b22" stroke="#30363d"/>
+  <circle cx="119.0" cy="118" r="30" fill="none" stroke="#21262d" stroke-width="6"/>
+  <circle class="ring" cx="119.0" cy="118" r="30" fill="none" stroke="#FFD60A" stroke-width="6" stroke-linecap="round"
+          stroke-dasharray="188.5" stroke-dashoffset="15.6" transform="rotate(-90 119.0 118)"
+          style="animation: ring0 1.2s cubic-bezier(.2,.8,.2,1) 0.30s both"/>
+  <text x="119.0" y="125" font-size="20" font-weight="700" text-anchor="middle" fill="#FFD60A">S</text>
+  <text x="119.0" y="180" font-size="14" font-weight="600" text-anchor="middle" fill="#e6edf3">Commits</text>
+  <text x="119.0" y="200" font-size="12" text-anchor="middle" fill="#8b949e">1.9k</text>
+</g>
+<g class="fade" style="animation-delay:0.08s">
+  <rect x="230" y="66" width="190" height="150" rx="14" fill="#161b22" stroke="#30363d"/>
+  <circle cx="325.0" cy="118" r="30" fill="none" stroke="#21262d" stroke-width="6"/>
+  <circle class="ring" cx="325.0" cy="118" r="30" fill="none" stroke="#FFD60A" stroke-width="6" stroke-linecap="round"
+          stroke-dasharray="188.5" stroke-dashoffset="181.0" transform="rotate(-90 325.0 118)"
+          style="animation: ring1 1.2s cubic-bezier(.2,.8,.2,1) 0.38s both"/>
+  <text x="325.0" y="125" font-size="20" font-weight="700" text-anchor="middle" fill="#FFD60A">S</text>
+  <text x="325.0" y="180" font-size="14" font-weight="600" text-anchor="middle" fill="#e6edf3">Contributions</text>
+  <text x="325.0" y="200" font-size="12" text-anchor="middle" fill="#8b949e">2.1k</text>
+</g>
+<g class="fade" style="animation-delay:0.16s">
+  <rect x="436" y="66" width="190" height="150" rx="14" fill="#161b22" stroke="#30363d"/>
+  <circle cx="531.0" cy="118" r="30" fill="none" stroke="#21262d" stroke-width="6"/>
+  <circle class="ring" cx="531.0" cy="118" r="30" fill="none" stroke="#FF9F0A" stroke-width="6" stroke-linecap="round"
+          stroke-dasharray="188.5" stroke-dashoffset="169.6" transform="rotate(-90 531.0 118)"
+          style="animation: ring2 1.2s cubic-bezier(.2,.8,.2,1) 0.46s both"/>
+  <text x="531.0" y="125" font-size="20" font-weight="700" text-anchor="middle" fill="#FF9F0A">SS</text>
+  <text x="531.0" y="180" font-size="14" font-weight="600" text-anchor="middle" fill="#e6edf3">Repositories</text>
+  <text x="531.0" y="200" font-size="12" text-anchor="middle" fill="#8b949e">105</text>
+</g>
+<g class="fade" style="animation-delay:0.24s">
+  <rect x="642" y="66" width="190" height="150" rx="14" fill="#161b22" stroke="#30363d"/>
+  <circle cx="737.0" cy="118" r="30" fill="none" stroke="#21262d" stroke-width="6"/>
+  <circle class="ring" cx="737.0" cy="118" r="30" fill="none" stroke="#FFD60A" stroke-width="6" stroke-linecap="round"
+          stroke-dasharray="188.5" stroke-dashoffset="139.5" transform="rotate(-90 737.0 118)"
+          style="animation: ring3 1.2s cubic-bezier(.2,.8,.2,1) 0.54s both"/>
+  <text x="737.0" y="125" font-size="20" font-weight="700" text-anchor="middle" fill="#FFD60A">S</text>
+  <text x="737.0" y="180" font-size="14" font-weight="600" text-anchor="middle" fill="#e6edf3">Stars</text>
+  <text x="737.0" y="200" font-size="12" text-anchor="middle" fill="#8b949e">278</text>
+</g>
+<g class="fade" style="animation-delay:0.32s">
+  <rect x="24" y="232" width="190" height="150" rx="14" fill="#161b22" stroke="#30363d"/>
+  <circle cx="119.0" cy="284" r="30" fill="none" stroke="#21262d" stroke-width="6"/>
+  <circle class="ring" cx="119.0" cy="284" r="30" fill="none" stroke="#64D2FF" stroke-width="6" stroke-linecap="round"
+          stroke-dasharray="188.5" stroke-dashoffset="81.7" transform="rotate(-90 119.0 284)"
+          style="animation: ring4 1.2s cubic-bezier(.2,.8,.2,1) 0.62s both"/>
+  <text x="119.0" y="291" font-size="20" font-weight="700" text-anchor="middle" fill="#64D2FF">A</text>
+  <text x="119.0" y="346" font-size="14" font-weight="600" text-anchor="middle" fill="#e6edf3">Followers</text>
+  <text x="119.0" y="366" font-size="12" text-anchor="middle" fill="#8b949e">37</text>
+</g>
+<g class="fade" style="animation-delay:0.40s">
+  <rect x="230" y="232" width="190" height="150" rx="14" fill="#161b22" stroke="#30363d"/>
+  <circle cx="325.0" cy="284" r="30" fill="none" stroke="#21262d" stroke-width="6"/>
+  <circle class="ring" cx="325.0" cy="284" r="30" fill="none" stroke="#64D2FF" stroke-width="6" stroke-linecap="round"
+          stroke-dasharray="188.5" stroke-dashoffset="150.8" transform="rotate(-90 325.0 284)"
+          style="animation: ring5 1.2s cubic-bezier(.2,.8,.2,1) 0.70s both"/>
+  <text x="325.0" y="291" font-size="20" font-weight="700" text-anchor="middle" fill="#64D2FF">A</text>
+  <text x="325.0" y="346" font-size="14" font-weight="600" text-anchor="middle" fill="#e6edf3">Pull Requests</text>
+  <text x="325.0" y="366" font-size="12" text-anchor="middle" fill="#8b949e">26</text>
+</g>
+<g class="fade" style="animation-delay:0.48s">
+  <rect x="436" y="232" width="190" height="150" rx="14" fill="#161b22" stroke="#30363d"/>
+  <circle cx="531.0" cy="284" r="30" fill="none" stroke="#21262d" stroke-width="6"/>
+  <circle class="ring" cx="531.0" cy="284" r="30" fill="none" stroke="#8E8E93" stroke-width="6" stroke-linecap="round"
+          stroke-dasharray="188.5" stroke-dashoffset="181.0" transform="rotate(-90 531.0 284)"
+          style="animation: ring6 1.2s cubic-bezier(.2,.8,.2,1) 0.78s both"/>
+  <text x="531.0" y="291" font-size="20" font-weight="700" text-anchor="middle" fill="#8E8E93">C</text>
+  <text x="531.0" y="346" font-size="14" font-weight="600" text-anchor="middle" fill="#e6edf3">Issues</text>
+  <text x="531.0" y="366" font-size="12" text-anchor="middle" fill="#8b949e">1</text>
+</g>
+<g class="fade" style="animation-delay:0.56s">
+  <rect x="642" y="232" width="190" height="150" rx="14" fill="#161b22" stroke="#30363d"/>
+  <circle cx="737.0" cy="284" r="30" fill="none" stroke="#21262d" stroke-width="6"/>
+  <circle class="ring" cx="737.0" cy="284" r="30" fill="none" stroke="#64D2FF" stroke-width="6" stroke-linecap="round"
+          stroke-dasharray="188.5" stroke-dashoffset="181.0" transform="rotate(-90 737.0 284)"
+          style="animation: ring7 1.2s cubic-bezier(.2,.8,.2,1) 0.86s both"/>
+  <text x="737.0" y="291" font-size="20" font-weight="700" text-anchor="middle" fill="#64D2FF">A</text>
+  <text x="737.0" y="346" font-size="14" font-weight="600" text-anchor="middle" fill="#e6edf3">Experience</text>
+  <text x="737.0" y="366" font-size="12" text-anchor="middle" fill="#8b949e">3 yrs</text>
+</g>
+</svg>
