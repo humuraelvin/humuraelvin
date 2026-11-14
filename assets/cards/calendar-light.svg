@@ -378,6 +378,7 @@
 <g class="fade" style="animation-delay:0.936s"><path d="M519.0,410.1 l9.0,-5.2 l9.0,5.2 l-9.0,5.2 z" fill="#bfdcff"/><path d="M519.0,410.1 l9.0,5.2 v9.1 l-9.0,-5.2 z" fill="#94abc6"/><path d="M528.0,415.3 l9.0,-5.2 v9.1 l-9.0,5.2 z" fill="#728499"/></g>
 <g class="fade" style="animation-delay:0.918s"><path d="M492.0,422.4 l9.0,-5.2 l9.0,5.2 l-9.0,5.2 z" fill="#ebedf0"/><path d="M492.0,422.4 l9.0,5.2 v2.0 l-9.0,-5.2 z" fill="#b7b8bb"/><path d="M501.0,427.6 l9.0,-5.2 v2.0 l-9.0,5.2 z" fill="#8d8e90"/></g>
 <g class="fade" style="animation-delay:0.936s"><path d="M510.0,422.4 l9.0,-5.2 l9.0,5.2 l-9.0,5.2 z" fill="#ebedf0"/><path d="M510.0,422.4 l9.0,5.2 v2.0 l-9.0,-5.2 z" fill="#b7b8bb"/><path d="M519.0,427.6 l9.0,-5.2 v2.0 l-9.0,5.2 z" fill="#8d8e90"/></g>
+<g class="fade" style="animation-delay:0.936s"><path d="M501.0,427.6 l9.0,-5.2 l9.0,5.2 l-9.0,5.2 z" fill="#ebedf0"/><path d="M501.0,427.6 l9.0,5.2 v2.0 l-9.0,-5.2 z" fill="#b7b8bb"/><path d="M510.0,432.8 l9.0,-5.2 v2.0 l-9.0,5.2 z" fill="#8d8e90"/></g>
 <g class="fade" style="animation-delay:0.60s">
   <text x="832" y="70" font-size="22" font-weight="700" text-anchor="end" fill="#0071E3">635</text>
   <text x="832" y="87" font-size="12" text-anchor="end" fill="#6e6e73">contributions in the last year</text>
@@ -387,7 +388,7 @@
   <text x="832" y="133" font-size="12" text-anchor="end" fill="#6e6e73">longest streak</text>
 </g>
 <g class="fade" style="animation-delay:0.80s">
-  <text x="832" y="162" font-size="22" font-weight="700" text-anchor="end" fill="#1d1d1f">1 day</text>
+  <text x="832" y="162" font-size="22" font-weight="700" text-anchor="end" fill="#1d1d1f">0 days</text>
   <text x="832" y="179" font-size="12" text-anchor="end" fill="#6e6e73">current streak</text>
 </g>
 <g class="fade" style="animation-delay:0.90s">
