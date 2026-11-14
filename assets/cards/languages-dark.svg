@@ -15,13 +15,13 @@
 <g clip-path="url(#barclip)"><g class="bar">
 <rect x="24.00" y="66" width="326.74" height="12" fill="#f1e05a"/>
 <rect x="350.24" y="66" width="148.74" height="12" fill="#3572A5"/>
-<rect x="498.48" y="66" width="107.18" height="12" fill="#3178c6"/>
-<rect x="605.16" y="66" width="72.55" height="12" fill="#b07219"/>
-<rect x="677.21" y="66" width="53.15" height="12" fill="#4F5D95"/>
-<rect x="729.86" y="66" width="41.55" height="12" fill="#f34b7d"/>
-<rect x="770.91" y="66" width="13.22" height="12" fill="#555555"/>
-<rect x="783.62" y="66" width="10.08" height="12" fill="#89e051"/>
-<rect x="793.20" y="66" width="39.30" height="12" fill="#8E8E93"/>
+<rect x="498.48" y="66" width="107.15" height="12" fill="#3178c6"/>
+<rect x="605.13" y="66" width="72.55" height="12" fill="#b07219"/>
+<rect x="677.17" y="66" width="53.15" height="12" fill="#4F5D95"/>
+<rect x="729.83" y="66" width="41.53" height="12" fill="#f34b7d"/>
+<rect x="770.85" y="66" width="13.21" height="12" fill="#555555"/>
+<rect x="783.57" y="66" width="10.07" height="12" fill="#89e051"/>
+<rect x="793.13" y="66" width="39.37" height="12" fill="#8E8E93"/>
 </g></g>
 <g class="fade" style="animation-delay:0.50s">
   <circle cx="30.0" cy="111" r="6" fill="#f1e05a"/>
