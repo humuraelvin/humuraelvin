@@ -18,10 +18,10 @@
 <rect x="498.48" y="66" width="107.15" height="12" fill="#3178c6"/>
 <rect x="605.13" y="66" width="72.55" height="12" fill="#b07219"/>
 <rect x="677.17" y="66" width="53.15" height="12" fill="#4F5D95"/>
-<rect x="729.83" y="66" width="41.53" height="12" fill="#f34b7d"/>
+<rect x="729.82" y="66" width="41.52" height="12" fill="#f34b7d"/>
 <rect x="770.85" y="66" width="13.21" height="12" fill="#555555"/>
-<rect x="783.57" y="66" width="10.07" height="12" fill="#89e051"/>
-<rect x="793.13" y="66" width="39.37" height="12" fill="#8E8E93"/>
+<rect x="783.56" y="66" width="10.08" height="12" fill="#89e051"/>
+<rect x="793.14" y="66" width="39.36" height="12" fill="#8E8E93"/>
 </g></g>
 <g class="fade" style="animation-delay:0.50s">
   <circle cx="30.0" cy="111" r="6" fill="#f1e05a"/>
