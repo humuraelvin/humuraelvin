@@ -61,11 +61,11 @@
   <rect x="24" y="232" width="190" height="150" rx="14" fill="#f5f5f7" stroke="#d2d2d7"/>
   <circle cx="119.0" cy="284" r="30" fill="none" stroke="#e5e5ea" stroke-width="6"/>
   <circle class="ring" cx="119.0" cy="284" r="30" fill="none" stroke="#0071A4" stroke-width="6" stroke-linecap="round"
-          stroke-dasharray="188.5" stroke-dashoffset="81.7" transform="rotate(-90 119.0 284)"
+          stroke-dasharray="188.5" stroke-dashoffset="75.4" transform="rotate(-90 119.0 284)"
           style="animation: ring4 1.2s cubic-bezier(.2,.8,.2,1) 0.62s both"/>
   <text x="119.0" y="291" font-size="20" font-weight="700" text-anchor="middle" fill="#0071A4">A</text>
   <text x="119.0" y="346" font-size="14" font-weight="600" text-anchor="middle" fill="#1d1d1f">Followers</text>
-  <text x="119.0" y="366" font-size="12" text-anchor="middle" fill="#6e6e73">37</text>
+  <text x="119.0" y="366" font-size="12" text-anchor="middle" fill="#6e6e73">38</text>
 </g>
 <g class="fade" style="animation-delay:0.40s">
   <rect x="230" y="232" width="190" height="150" rx="14" fill="#f5f5f7" stroke="#d2d2d7"/>
